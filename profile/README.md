@@ -5,6 +5,7 @@ WebXIO is a group by 2 students, who love to program and develop applications fo
 Some online available projects you can look up:
 
  - https://a2pd.htlpinkafeld.app/ -> The Webinterface for the live-tracking of a rocket, flying in October, developed by us
+   * -> a fully self-written SPA
  - https://www.aktive-gemeinde.at -> The Website of a party 
  - https://liste-aktive-gemeinde.eu-4.evennode.com/ -> The Article Builder (a simplified version) of the pary, used to edit in browser articles
 
