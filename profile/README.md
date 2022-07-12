@@ -4,14 +4,14 @@ WebXIO is a group by 2 students, who love to program and develop applications fo
 
 Some online available projects you can look up:
 
- - https://a2pd.htlpinkafeld.app/ -> The Webinterface for the live-tracking of a rocket, flying in October
+ - https://a2pd.htlpinkafeld.app/ -> The Webinterface for the live-tracking of a rocket, flying in October, developed by us
  - https://www.aktive-gemeinde.at -> The Website of a party 
  - https://liste-aktive-gemeinde.eu-4.evennode.com/ -> The Article Builder (a simplified version) of the pary, used to edit in browser articles
 
 The article builder version for the repository is simplified and lacks many features, as the backend and the exact requests have to remain private as wished by the owner of the page.
 Other projects can be viewed in the repository section if the permission was given by the one's, ordering the product.
 
-Hint: our own website will be deployed in short notice.
+Hint: our own website will be deployed in short notice under http://www.webxio.at/
 
 ## The technologies we use:
 
