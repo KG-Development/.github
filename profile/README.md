@@ -2,10 +2,13 @@
 
 WebXIO is a group by 2 students, who love to program and develop applications for many different use-cases.
 
-Our flagship project is available under https://a2pd.htlpinkafeld.app/
-Another project you can look up is: https://liste-aktive-gemeinde.eu-4.evennode.com/
+Some online available projects you can look up:
 
-Note: The real project behind this fairly simple webpage was the 'ArticleBuilder', a replica of Wordpress. Or in other words an browser in-built editor for articles, pages etc. A simplified version of the editor can be seen at the repository. The version for the repository is simplified and lacks many features, as the backend and the exact requests have to remain private as wished by the owner of the page.
+ - https://a2pd.htlpinkafeld.app/ -> The Webinterface for the live-tracking of a rocket, flying in October
+ - https://www.aktive-gemeinde.at -> The Website of a party 
+ - https://liste-aktive-gemeinde.eu-4.evennode.com/ -> The Article Builder (a simplified version) of the pary, used to edit in browser articles
+
+The article builder version for the repository is simplified and lacks many features, as the backend and the exact requests have to remain private as wished by the owner of the page.
 Other projects can be viewed in the repository section if the permission was given by the one's, ordering the product.
 
 Hint: our own website will be deployed in short notice.
