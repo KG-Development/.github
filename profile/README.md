@@ -12,7 +12,7 @@ Some online available projects you can look up:
 The article builder version for the repository is simplified and lacks many features, as the backend and the exact requests have to remain private as wished by the owner of the page.
 Other projects can be viewed in the repository section if the permission was given by the one's, ordering the product.
 
-Hint: our own website will be deployed in short notice under http://www.webxio.at/
+Our website is deployed!!! https://webxio.at
 
 ## The technologies we use:
 
