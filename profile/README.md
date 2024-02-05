@@ -1,18 +1,7 @@
 # WebXIO
 
 WebXIO is a group by 2 students, who love to program and develop applications for many different use-cases.
-
-Some online available projects you can look up:
-
- - [WebXIO -> Homepage](https://webxio.at) -> Our personal website, made with vue.js, node.js and mongodb
- - [Rocket-Project -> Homepage](https://a2pd.htlpinkafeld.app/) 
-   * -> The Webinterface for the live-tracking of a rocket, flying in October, the website, tracking the CubeSat in the nosecone of the rocket has been developed by us
-   * -> a fully self-written SPA
- - [Liste Aktive Gemeinde -> Homepage](https://www.aktive-gemeinde.at) -> The Website of a party 
- - [Articlebuilder -> WebApp](https://kgdevelopment-articlebuilder.netlify.app/)  -> The Article Builder (a simplified version) of the pary, used to edit in browser articles
-
-The article builder version for the repository is simplified and lacks many features, as the backend and the exact requests have to remain private as wished by the owner of the page.
-Other projects can be viewed in the repository section if the permission was given by the one's, ordering the product.
+Our Webpage: [WebXIO](https://webxio.at)
 
 ## The technologies we use:
 
